@@ -6,7 +6,7 @@
 #                                                                                         #
 #  with ObjectTracker you can track the last updated time from any object in HA           #
 #  options are to give the last time an object was updated or the time that has gone by   #
-#  you have to set the following options in the appdaemon.cfg:                            #
+#  you have to set the following options in the appdaemon.yaml:                           #
 #                                                                                         #
 #  object_type = the type you like to track (switch, input_boolean, sensor, etc)          #
 #  time_gone_by = True or False (false for showing last updated time)                     #
